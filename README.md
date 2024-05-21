@@ -12,7 +12,6 @@ I'm a passionate **Full Stack Web Developer** with a knack for building scalable
 
 - 📍 Based in Bangalore, India
 - 📧 Reach me at [tejureddy47@gmail.com](mailto:tejureddy47@gmail.com)
-- 📱 Mobile: +91-8618226804
 
 ## 🔧 Technologies & Tools
 
