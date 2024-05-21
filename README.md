@@ -51,6 +51,7 @@ A React-based application that locates ninjas in your vicinity, mimicking emerge
   - [Read here](https://link.springer.com/chapter/10.1007/978-981-16-1342-5_68)
 
 ## 📊 GitHub Stats
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Shritej-Reddy)
 
 ![Shritej's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shritej-Reddy&show_icons=true&theme=radical)
 
