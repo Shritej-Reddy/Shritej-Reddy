@@ -3,7 +3,7 @@
 # 👋 Hello, I'm Shritej Reddy! 
 
 <p align="left">
-<a href="linkedin.com/in/shritej-reddy-587910126/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/shritej-reddy-587910126/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:tejureddy47@gmail.com"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-0074CC?style=flat&logo=gmail&logoColor=white&color=234CAF50" /></a> &nbsp;
 <a href="https://github.com/Shritej-Reddy"><img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat&logo=GitHub&logoColor=white&color=FF9933"/></a> &nbsp;
 </p>
