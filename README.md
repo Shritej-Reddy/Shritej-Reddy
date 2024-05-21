@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Shritej Reddy! 
-
 ![Profile Banner](https://media.licdn.com/dms/image/D5616AQFyeg71i64fQw/profile-displaybackgroundimage-shrink_350_1400/0/1713790252810?e=1721865600&v=beta&t=Yhe73g_x4TGc5CMviU6QGN9_ULfZEEL8W7BojRuWA8E)
+
+# 👋 Hello, I'm Shritej Reddy! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-587910126-blue)](https://www.linkedin.com/in/shritej-reddy-587910126/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-shritej--reddy.github.io-lightgrey)](https://shritej-reddy.github.io/)
